@@ -1,0 +1,4 @@
+To use in rviz:
+roslaunch kinect_v2 display.launch 
+To use in Gazebo:
+roslaunch kinect_v2 gazebo.launch 
